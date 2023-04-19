@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 public class BoardMain {
-	// ㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎ
+	// ㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 	public static void main(String[] args) {
 		ArrayList<Board> boardList = new ArrayList<>();
 		Scanner scan = new Scanner(System.in);
